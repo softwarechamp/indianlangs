@@ -1,8 +1,13 @@
 body {
-    background-color: silver;
+    background-color: BlueViolet;
+	text-color:white;
+}
+.index-body{
+
+background-color:hotpink;
 }
 h1 {
-  color: blue;
+  color: lightpink;
   align:center;
 }
 p {
@@ -10,7 +15,15 @@ p {
 }
 .intro{
 
-color:indianred;
+color:white;
+
+}
+.index-intro{
+color:royalblue;
+
+}
+li{
+color:lightpink;
 }
 img{
 width:30%;
